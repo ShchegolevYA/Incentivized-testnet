@@ -1,4 +1,4 @@
-![logo](https://github.com/ShchegolevYA/Incentivized-testnet/blob/main/Aleo%20GPU/png/logo_GPU.png)
+![logo](https://github.com/ShchegolevYA/Incentivized-testnet/blob/main/Aleo%20GPU/png/logo_GPU%232.png)
 
 
 <div style="text-align: center;">
