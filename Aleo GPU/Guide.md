@@ -1,4 +1,4 @@
-[logo]([https://github.com/lalatrade/lalatrade/blob/main/png/logo%231.png)
+![logo]([https://github.com/lalatrade/lalatrade/blob/main/png/logo%231.png)
 
 
 <div style="text-align: center;">
